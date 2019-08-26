@@ -35,7 +35,7 @@
 		$title = $disciplina." - ".$conteudo;
 
 	} else {
-		$title = '';
+		$title = 'Soluz';
 	}
 
 ?>
