@@ -38,7 +38,7 @@
 ?>
 <html>
 <head>
-	<title>Boletim da disciplina</title> 
+	<title>Soluz</title> 
 	<meta charset="utf-8">
 
 	<!-- Compiled and minified CSS -->
