@@ -34,7 +34,7 @@
 		$title = $disciplina." - ".$conteudo;
 
 	} else {
-		$title = '';
+		$title = 'Soluz';
 	}
 
 	if (aval_ainda_disponivel()) header("avaliacao.php?codigo=".$codigo);
